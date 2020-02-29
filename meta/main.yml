@@ -16,6 +16,6 @@ galaxy_info:
     - name: raspbian
   galaxy_tags: []
 dependencies:
-  - name: java_runtime
+  - name: alexlapinski.ansible_role_raspbian_java_runtime
     vars:
       java_zulu_version: 8
